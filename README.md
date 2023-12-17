@@ -1,6 +1,4 @@
 # Hi! I'm XSlime
 This is my Github Account.
 
-I like JavaScript、Python、Node.js、Go.
-
-My Website: [XSlime's Website](//xslimenb.eu.org)
+I like Rust、JavaScript、Python.
