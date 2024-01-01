@@ -1,4 +1,4 @@
-[![W9pi3cZ1's GitHub stats](https://github-readme-stats.vercel.app/api?username=W9pi3cZ1) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W9pi3cZ1&hide_progress=true)](https://github.com/W9pi3cZ1)
+[![W9pi3cZ1's GitHub stats](https://github-readme-stats.vercel.app/api?username=W9pi3cZ1&locale=cn) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W9pi3cZ1&hide_progress=true&locale=cn)](https://github.com/W9pi3cZ1)
 
 欢迎来到**XSlimeNB**的 Github 主页！
 
