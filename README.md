@@ -11,4 +11,4 @@
 本人是一名六年级的小学生，同时也是 [**@XYSlime**](https://github.com/XYSlime) 的创始人。
 
 ## Github 统计数据
-[![W9pi3cZ1's GitHub stats](https://github-readme-stats.vercel.app/api?username=W9pi3cZ1&locale=cn)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W9pi3cZ1&hide_progress=true&locale=cn)](https://github.com/W9pi3cZ1)
+[![W9pi3cZ1's GitHub stats](https://github-readme-stats.vercel.app/api?username=W9pi3cZ1&text_color=cfcfcf&bg_color=1f1f1f&locale=cn&show_icons=true&line_height=27)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W9pi3cZ1&text_color=cfcfcf&bg_color=1f1f1f&locale=cn&langs_count=3&line_height=27)](https://github.com/W9pi3cZ1)
