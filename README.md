@@ -7,4 +7,5 @@
 Welcome to view my Github profile!
 
 ## GitHub Statistics
-[![W9pi3cZ1's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=W9pi3cZ1&text_color=cfcfcf&bg_color=1f1f1f&show_icons=true&line_height=27)![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=W9pi3cZ1&text_color=cfcfcf&bg_color=1f1f1f&langs_count=3&line_height=27)](https://github.com/W9pi3cZ1)
+[![W9pi3cZ1's GitHub stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
