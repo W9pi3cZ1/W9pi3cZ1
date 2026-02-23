@@ -7,5 +7,5 @@
 Welcome to view my Github profile!
 
 ## GitHub Statistics
-[![W9pi3cZ1's GitHub stats](./profile/stats.svg)
+![W9pi3cZ1's GitHub stats](./profile/stats.svg)
 ![Top Langs](./profile/top-langs.svg)
